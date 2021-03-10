@@ -1,0 +1,44 @@
+@import '~antd/dist/antd.css';
+
+.w-500px {
+  width: 500px;
+}
+
+.h100 {
+  height: 100%;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.p-15px {
+  padding: 15px;
+}
+
+.my-15px {
+  margin: {
+    top: 15px;
+    bottom: 15px;
+  }
+}
+
+.m-15px {
+  margin: 15px;
+}
+
+.d-flex {
+  display: flex;;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.border-solid-1 {
+  border: 1px solid gray;
+}
